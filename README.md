@@ -3,7 +3,7 @@
 
 ---
 
-[![Migaprintv2 Logo](https://bitbucket.org/migastone/migaprintv2-api-documentation/raw/f379b1799ed2b63e47bd7d55b5ac9dc1b2640eef/docs_images/logo.png)](https://migastone.kartra.com/checkout/78c34c2b72c90b466b5d8d1cd24e5b1d)
+[![Migaprintv2 Logo](https://github.com/migastone/migaprint-api/blob/master/docs_images/logo.png)](https://migastone.kartra.com/checkout/78c34c2b72c90b466b5d8d1cd24e5b1d)
 
 ---
 
@@ -1643,7 +1643,7 @@
   For more information about partial order see the bellow picture from official printer documentation to understand the flow:
 
 
-[![Migaprintv2 Logo](https://bitbucket.org/migastone/migaprintv2-api-documentation/raw/20269aa3f8cbd1ec6ca656cb436097b12544c0ad/docs_images/printer.png)](https://migastone.kartra.com/checkout/78c34c2b72c90b466b5d8d1cd24e5b1d)
+[![Migaprintv2 Logo](https://github.com/migastone/migaprint-api/blob/master/docs_images/printer.png)](https://migastone.kartra.com/checkout/78c34c2b72c90b466b5d8d1cd24e5b1d)
 
   * **URL**
 
