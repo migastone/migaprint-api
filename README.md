@@ -33,7 +33,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -54,7 +54,7 @@
 			"app_id": "4",
 			"value_id": "315",
 			"api_token": "9aefe2-41299b-03f28f-e998cd-676496",
-			"api_slug": "migaprintv2-official",
+			"api_slug": "foodprintv2-official",
 			"api_status": "1",
 			"api_last_accessed_at": "2020-08-10 12:40:42",
 			"created_at": "2020-08-10 12:40:42",
@@ -107,7 +107,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' 
+				'slug' => 'foodprintv2-official' 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -151,7 +151,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -170,7 +170,7 @@
 		"data": {
 			"status": "Migaprintv2 API Running.",
 			"version": "1.0.0",
-			"slug": "migaprintv2-official",
+			"slug": "foodprintv2-official",
 			"title": "Migaprintv2 Official API Services"
 		}
 	}
@@ -220,7 +220,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' 
+				'slug' => 'foodprintv2-official' 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -264,7 +264,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
 	**Optional:**
 
@@ -375,7 +375,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 				'search_field_title' => 'store_id' ,  //optional
 				'search_field_value' => '3' , //optional
 			] , 
@@ -421,7 +421,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -482,7 +482,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -526,7 +526,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
 	**Optional:**
 
@@ -622,7 +622,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 				'search_field_title' => 'store_id' ,  //optional
 				'search_field_value' => '3' , //optional
 			] , 
@@ -668,7 +668,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
 	**Optional:**
 
@@ -932,7 +932,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 				'search_field_title' => 'store_id' ,  //optional
 				'search_field_value' => '3' , //optional
 			] , 
@@ -978,7 +978,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -1059,7 +1059,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1103,7 +1103,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -1198,7 +1198,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1241,7 +1241,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -1324,7 +1324,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1368,7 +1368,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -1451,7 +1451,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1495,7 +1495,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **Data Params**
   
@@ -1581,7 +1581,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1663,7 +1663,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **GET/Query-String Params**
 
@@ -1766,7 +1766,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
@@ -1823,7 +1823,7 @@
 
 	`slug = [string]` 
 	
-	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `migaprintv2-official`)
+	(API_SLUG_KEY = API_SLUG : `[string]` will be your API slug which will always be `foodprintv2-official`)
 
   * **GET/Query-String Params**
 
@@ -1899,7 +1899,7 @@
 			CURLOPT_CUSTOMREQUEST => "POST",
 			CURLOPT_POSTFIELDS => [ 
 				'o4FLb6OWVq6vXgaes1zNS0NDKhQM44' => '9aefe2-41299b-03f28f-e998cd-676496' , 
-				'slug' => 'migaprintv2-official' , 
+				'slug' => 'foodprintv2-official' , 
 			] , 
 			CURLOPT_HTTPHEADER => [
 				"Cookie: editor=inqrclv4bdh6asohlku5b7f4oo"
